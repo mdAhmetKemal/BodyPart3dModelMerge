@@ -7,7 +7,7 @@ This link is containing many 3d models that Anatomical Part and their component 
 ftp://ftp.biosciencedbc.jp/archive/bodyparts3d/20110915/
 
 This tool  can merge Single File  that wanted compened model in the "component_list.txt".  
-
+ ![alt text](https://github.com/mdAhmetKemal/BodyPart3dModelMerge/raw/master/Ads%C4%B1z3.png)
 
 # Install
 
@@ -21,6 +21,6 @@ This tool  can merge Single File  that wanted compened model in the "component_l
  1- find component Id (ex. FMA24728)    that you  wanted component name  (face ) in the "component_list.txt" 
  
  2 -write  component ID in application like  FMA24728  then press enter and wait for writing file. 
- 
+ ![alt text](https://github.com/mdAhmetKemal/BodyPart3dModelMerge/raw/master/Ads%C4%B1z2.png)
  3 - file will have wroten that  name "component_name.obj" all merged sub component piece 
  
