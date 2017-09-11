@@ -14,7 +14,7 @@ This tool  can merge Single File  that wanted compened model in the "component_l
 1-Download   BodyParts3D_3.0_obj_95.zip   and  composite_parts.txt
     extract   BodyParts3D_3.0_obj_95.zip file and 
     put in this BodyPart3dModelMerge app and "component_list.txt"
-![alt text](https://raw.githubusercontent.com/mdAhmetKemal/BodyPart3dModelMerge/branch/path/to/img.png)
+![alt text](https://github.com/mdAhmetKemal/BodyPart3dModelMerge/raw/master/Ads%C4%B1z1.png)
 
 # How can you use this tool ?  
       
