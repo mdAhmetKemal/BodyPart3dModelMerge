@@ -1,5 +1,5 @@
 # BodyPart3dModelMerge
-merge tool for Anatomical part on the BodyParts3D 
+Merge tool for Anatomical part on the BodyParts3D 
 
 I had developmed this tool for BodyParts3D model set in the 2013.  
 This link is containing many 3d models that Anatomical Part and their component list.
@@ -8,16 +8,15 @@ ftp://ftp.biosciencedbc.jp/archive/bodyparts3d/20110915/
 
 This tool  can merge that wanted compened model in the "component_list.txt".  
 
---Install--
 
-Download   BodyParts3D_3.0_obj_95.zip   and  composite_parts.txt
+# Install
 
-extract   BodyParts3D_3.0_obj_95.zip file and 
-   
-   put in this BodyPart3dModelMerge app and "component_list.txt"
+1-Download   BodyParts3D_3.0_obj_95.zip   and  composite_parts.txt
+    extract   BodyParts3D_3.0_obj_95.zip file and 
+    put in this BodyPart3dModelMerge app and "component_list.txt"
 
-how can you use this tool ?  
 
+# How can you use this tool ?  
       
  1- find component Id (ex. FMA24728)    that you  wanted component name  (face ) in the "component_list.txt" 
  
