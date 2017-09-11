@@ -6,7 +6,7 @@ This link is containing many 3d models that Anatomical Part and their component 
   
 ftp://ftp.biosciencedbc.jp/archive/bodyparts3d/20110915/
 
-This tool  can merge that wanted compened model in the "component_list.txt".  
+This tool  can merge Single File  that wanted compened model in the "component_list.txt".  
 
 
 # Install
